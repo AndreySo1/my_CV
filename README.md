@@ -1,3 +1,3 @@
-[HTML - Andrey Soroko CV](https://andreyso1.github.io/rsschool-cv/cv/)
+[HTML - Andrey Soroko CV](https://andreyso1.github.io/my_cv/cv-html/)
 
-[MD - Andrey Soroko CV](https://andreyso1.github.io/rsschool-cv/cv)
+[MD - Andrey Soroko CV](https://andreyso1.github.io/my_cv/cv-md)
